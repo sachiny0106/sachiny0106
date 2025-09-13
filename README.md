@@ -3,7 +3,7 @@
 <p align="left">
 🎓 B.Tech ECE student @ IIIT Bhopal (Batch of 2026) <br/>
 💻 Full-Stack MERN Developer | Competitive Programmer <br/>
-🧠 600+ problems solved on LeetCode | Codeforces Pupil | CodeChef 1700+
+🧠 1000+ Problems solved on various platforms | 600+ problems solved on LeetCode | Codeforces Pupil | CodeChef 1700+
 </p>
 
 ---
