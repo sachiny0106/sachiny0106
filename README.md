@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Sachin Yadav</h2>
 
 <p align="left">
-🎓 B.Tech ECE student @ IIIT Bhopal (Batch of 2026) <br/>
+🎓 B.Tech ECE student @ IIIT Bhopal'26 <br/>
 💻 Full-Stack MERN Developer | Competitive Programmer <br/>
 🧠 1000+ Problems solved on various platforms | 600+ problems solved on LeetCode | Codeforces Pupil | CodeChef 1700+
 </p>
